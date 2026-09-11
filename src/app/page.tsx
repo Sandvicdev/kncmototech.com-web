@@ -155,7 +155,7 @@ export default function Home() {
           zIndex: 1,
         }}
       >
-        ©  {new Date().getFullYear()} KNC Mototech
+        © {new Date().getFullYear()} KNC Mototech
       </p>
     </main>
   );
