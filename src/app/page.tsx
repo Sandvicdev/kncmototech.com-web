@@ -113,7 +113,7 @@ export default function Home() {
 
       {/* WhatsApp iletişim */}
       <a
-        href="https://wa.me/90534236872?text=Merhaba%2C%20KNCMotoTech%20hakk%C4%B1nda%20bilgi%20almak%20istiyorum."
+        href="https://wa.me/905342368272?text=Merhaba%2C%20KNCMotoTech%20hakk%C4%B1nda%20bilgi%20almak%20istiyorum."
         target="_blank"
         rel="noopener noreferrer"
         style={{
